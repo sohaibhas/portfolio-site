@@ -9,7 +9,7 @@ const Subcribe = () => {
         <form action="">
           <div className="form-container display-col">
             <input type="email" name-="email" placeholder="Enter your Email" />
-            <button className="btn" style={{size:"20px"}}>Sign Up</button>
+            <button className="btn" style={{fontsize:"20px"}}>Sign Up</button>
           </div>
           <div className="form-container">
             <input type="checkbox" />
